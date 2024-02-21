@@ -1,5 +1,6 @@
 
-# original code Customized by Ali Maroosi  ali.maroosi@gmail.com especially data set that used   Dava Dozdi  Normal
+# original code Customized by Ali Maroosi  ali.maroosi@gmail.com especially data set that used 
+# دعوا  دزدی و نرمال Dava Dozdi  Normal
 # please check Tovzihat.odt file for more descriptions
 # suspicious-activity-recognition
 Action Recognition Model to detect Suspicious activties through Surveillance videos
