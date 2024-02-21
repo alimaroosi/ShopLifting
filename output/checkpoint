@@ -1,0 +1,2 @@
+model_checkpoint_path: "slowfast_finalweights.hd5"
+all_model_checkpoint_paths: "slowfast_finalweights.hd5"
